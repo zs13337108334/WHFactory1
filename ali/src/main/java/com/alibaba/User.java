@@ -5,5 +5,4 @@ public class User {
     private Long id;
     private String age;
     private String log;
-
 }

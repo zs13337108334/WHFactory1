@@ -50,6 +50,16 @@
       <map>
         <entry key="$PROJECT_DIR$" value="5d7e7dac39e22ada0bc93382a8a3b71328cba9cd" />
       </map>
+<<<<<<< Updated upstream
+=======
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ali/src/main/java/com/alibaba/User.java" />
+      </list>
+>>>>>>> Stashed changes
     </option>
   </component>
   <component name="MavenImportPreferences">
@@ -61,8 +71,14 @@
     </option>
   </component>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="261" />
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="722" />
+    <option name="y" value="32" />
+>>>>>>> Stashed changes
 =======
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="722" />
@@ -77,8 +93,13 @@
     </navigator>
     <panes>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <pane id="PackagesPane" />
       <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+>>>>>>> Stashed changes
 =======
       <pane id="Scope" />
       <pane id="PackagesPane" />
@@ -135,13 +156,20 @@
 =======
       <workItem from="1612369738060" duration="989000" />
       <workItem from="1612370743207" duration="675000" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="89000" />
+=======
+    <option name="totallyTimeSpent" value="1753000" />
+>>>>>>> Stashed changes
 =======
     <option name="totallyTimeSpent" value="1753000" />
 >>>>>>> Stashed changes
@@ -150,12 +178,16 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1433902" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
+>>>>>>> Stashed changes
 =======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
 >>>>>>> Stashed changes
